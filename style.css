@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: sans-serif;}
+.head{display: flex;justify-content: center;align-items: center;width: 100%;height: 100vh;background: gray;}
+.card{width: 380px;background: white;border-radius: 10px;text-align: center;padding: 15px;}
+.card img{width: 180px;border-radius: 50%;margin-top: 5%;margin-bottom: 10%;}
+label{background: red;color: white;padding: 20px;border-radius: 10px;display: block;cursor: pointer;margin: auto 10px;}
+input{display: none;}
